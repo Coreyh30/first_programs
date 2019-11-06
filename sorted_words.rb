@@ -5,4 +5,3 @@ while input != ''
 input = gets.chomp
 puts 'anything else'
 end
-
